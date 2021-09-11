@@ -133,3 +133,4 @@ MVTec AD datasets : Download from [MVTec website](https://www.mvtec.com/company/
 [2] https://github.com/byungjae89/SPADE-pytorch
 
 [3] https://github.com/byungjae89/MahalanobisAD-pytorch
+# Hazumi_PaDiM
